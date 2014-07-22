@@ -92,4 +92,4 @@ FIND_KEY(array1, 2) //-> nil
 개발중입니다.
 
 ## License
-[The MIT License](http://opensource.org/licenses/MIT)
+[MIT License](https://github.com/UPPERCASEIO/UPPERCASE.SWIFT/blob/master/LICENSE)
