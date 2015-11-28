@@ -1,3 +1,5 @@
+***해당 프로젝트는 지원이 종료되었습니다.***
+
 # UPPERCASE.SWIFT
 
 UPPERCASE.JS의 Swift 구현체입니다.
